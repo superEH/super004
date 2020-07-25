@@ -25,7 +25,3 @@ Puedes ver la informacion de como instalarlo desde aqui: https://underc0de.org/f
 # Como funciona?
 Gracias al poder de la api de http://numverify.com/ se puede consultar por la informacion a su base de datos a traves de Rifap
 
-# Imagenes:
-
-
-![](https://i.imgur.com/3x0V3oB.png)
